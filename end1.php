@@ -5,7 +5,7 @@
 </script>
 <html>
 <head>
-  <title>Login</title>
+  <title> i hate all</title>
   <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
 </head>
 
